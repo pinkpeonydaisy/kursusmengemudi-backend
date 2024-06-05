@@ -1,0 +1,4 @@
+commitlint.config.js
+build
+jest.config.js
+src/__tests__
